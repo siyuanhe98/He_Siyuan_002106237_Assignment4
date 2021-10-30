@@ -14,7 +14,6 @@ public class EncounterHistory {
 
     private ArrayList<Encounter> history = new ArrayList<Encounter>();
     private ArrayList<String> list;
-    private String name = "123";
     
     public EncounterHistory() {
         history = new ArrayList<Encounter>();
@@ -23,14 +22,6 @@ public class EncounterHistory {
 
     public ArrayList<String> getList() {
         return list;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
     }
 
     public void setList(ArrayList<String> list) {
@@ -49,10 +40,10 @@ public class EncounterHistory {
         this.history = history;
     }
 
-
     @Override
     public String toString() {
-        return "EncounterHistory{" + "history=" + history + ", list=" + list + ", name=" + name + '}';
+        return "EncounterHistory{" + "history=" + history + ", list=" + list + '}';
     }
-    
+
+
 }

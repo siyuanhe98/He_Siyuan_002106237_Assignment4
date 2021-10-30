@@ -23,21 +23,6 @@ public class Systems {
 
     public Systems() {
         personDirectory = new PersonDirectory();
-//        Person p1 = new Person(1,"Siyuan He",22,new House("Landmark"),new Community("Fenway"));
-//        p1.getEncounterHistory().addEncounter(new Encounter(new VitalSigns(120,80)));
-//        p1.getEncounterHistory().addEncounter(new Encounter(new VitalSigns(121,81)));
-//        p1.getEncounterHistory().addEncounter(new Encounter(new VitalSigns(122,82)));
-//        personDirectory.createPerson(p1);
-//        Person p2 = new Person(2,"Mandy",27,new House("Queensberry"),new Community("Fenway"));
-//        p1.getEncounterHistory().addEncounter(new Encounter(new VitalSigns(130,90)));
-//        p1.getEncounterHistory().addEncounter(new Encounter(new VitalSigns(131,91)));
-//        p1.getEncounterHistory().addEncounter(new Encounter(new VitalSigns(132,92)));
-//        personDirectory.createPerson(p2);
-//        Person p3 = new Person(3,"JiaJia",23,new House("Greenhouse"),new Community("Fenway"));
-//        p1.getEncounterHistory().addEncounter(new Encounter(new VitalSigns(110,70)));
-//        p1.getEncounterHistory().addEncounter(new Encounter(new VitalSigns(111,71)));
-//        p1.getEncounterHistory().addEncounter(new Encounter(new VitalSigns(112,72)));
-//        personDirectory.createPerson(p3);
     }
 
     public PersonDirectory getPersonDirectory() {
