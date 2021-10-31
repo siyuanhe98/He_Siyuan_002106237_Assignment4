@@ -3,14 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/workspace_5100/Assignment4/src/ui/NYCPanel.java</file>
-            <file>file:/D:/workspace_5100/Assignment4/src/ui/EnconterJPanel.java</file>
-            <file>file:/D:/workspace_5100/Assignment4/src/ui/LowerPanel.java</file>
-            <file>file:/D:/workspace_5100/Assignment4/src/ui/CommunityPanel.java</file>
-            <file>file:/D:/workspace_5100/Assignment4/src/ui/HigherPanel.java</file>
-            <file>file:/D:/workspace_5100/Assignment4/src/ui/CrudJPanel.java</file>
-            <file>file:/D:/workspace_5100/Assignment4/src/ui/FenwayPanel.java</file>
-            <file>file:/D:/workspace_5100/Assignment4/src/ui/BackBayPanel.java</file>
+            <file>file:/D:/workspace_5100/He_Siyuan_002106237_Assignment4/Assignment4/src/data/PersonDirectory.java</file>
+            <file>file:/D:/workspace_5100/He_Siyuan_002106237_Assignment4/Assignment4/src/data/EncounterHistory.java</file>
+            <file>file:/D:/workspace_5100/He_Siyuan_002106237_Assignment4/Assignment4/src/data/PatientDirectory.java</file>
+            <file>file:/D:/workspace_5100/He_Siyuan_002106237_Assignment4/Assignment4/src/Systems/Systems.java</file>
         </group>
     </open-files>
 </project-private>
